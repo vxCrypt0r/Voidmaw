@@ -108,7 +108,7 @@ ____
 This repository is for academic purposes, the use of this software is your responsibility.
 ____
 ### NOTE:
- * If you are a Red Teamer and want to have earlier access to my future research, you can support me on [Patreon](https://patreon.com/vxCrypt0r) to get earlier access to future tools and techniques before I release it publicly.
+ * If you are a Red Teamer and want to have earlier access to my future research, you can support me on [Patreon](https://patreon.com/vxCrypt0r) to get earlier access to future tools and techniques before I release them publicly.
 
 ### Author - Paul Socatiu
  * Linkedin - [Paul Socatiu](https://ro.linkedin.com/in/paul-%C8%99oca%C8%9Biu-68b566210?trk=people-guest_people_search-card)
