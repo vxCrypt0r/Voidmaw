@@ -117,4 +117,5 @@ ____
  * Linkedin - [Paul Socatiu](https://ro.linkedin.com/in/paul-%C8%99oca%C8%9Biu-68b566210?trk=people-guest_people_search-card)
  * Twitter  - [vxCrypt0r](https://x.com/vxCrypt0r)
  * Patreon - [vxCrypt0r](https://patreon.com/vxCrypt0r)
+ * Ko-Fi - [vxCrypt0r](https://ko-fi.com/vxcrypt0r)
 
