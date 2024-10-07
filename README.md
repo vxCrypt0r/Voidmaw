@@ -92,6 +92,9 @@ ____
 ### Demo:
 
 #### Cobaltstrike beacon:
+
+NOTE: This is a bypass for memory scanners and YARA rules and is not a bulletproof technique. Bad OPSEC (such as default cobaltstrike profile) will get your beacon flagged!
+
 1.) Payload generation:
 ![cobalt-rec](https://github.com/vxCrypt0r/Voidmaw/blob/master/gifs/cobalt-rec.gif)
 2.) Payload execution:
